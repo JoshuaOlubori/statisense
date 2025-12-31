@@ -16,8 +16,38 @@
 **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
 
 ---
+## 📑 Table of Contents
 
-## 📌 Executive Summary
+* [📌 Executive Summary](#-executive-summary)
+
+  * [The "K-Shaped" Economic Divergence](#the-k-shaped-economic-divergence)
+  * [Key Highlights](#key-highlights)
+  * [Core Insight](#core-insight)
+
+* [📊 1. GDP Analysis: The Shift from Oil to Services](#-1-gdp-analysis-the-shift-from-oil-to-services)
+
+  * [Overview](#overview)
+  * [🚀 Top 5 Sectors by Growth (2024)](#-top-5-sectors-by-growth-2024)
+  * [🧱 Top Contributors to GDP (2024)](#-top-contributors-to-gdp-2024)
+  * [🏆 Best and Least Performers (10-Year Overview)](#-best-and-least-performers-10-year-overview)
+
+* [📉 2. CPI & Inflation: The Food Security Emergency](#-2-cpi--inflation-the-food-security-emergency)
+
+  * [Inflation Dynamics](#inflation-dynamics)
+  * [🔥 Highest Cost Drivers (2024)](#-highest-cost-drivers-2024)
+  * [🔍 GDP vs. CPI Insights](#-gdp-vs-cpi-insights)
+
+* [🏢 3. Company–Sector Analysis: A Tale of Two Economies](#-3-companysector-analysis-a-tale-of-two-economies)
+
+  * [🧠 Key Insight](#key-insight)
+
+* [🧭 4. Recommendations](#4-recommendations)
+
+  * [🏛️ For the Nigerian Economic Advisory Team](#for-the-nigerian-economic-advisory-team)
+  * [💼 For Investors](#for-investors)
+
+* [📚 References](#references)
+## Executive Summary
 
 ### The "K-Shaped" Economic Divergence
 
@@ -42,14 +72,14 @@ Policy intervention must shift from targeting mere GDP growth to **sector-specif
 
 ---
 
-## 📊 1. GDP Analysis: The Shift from Oil to Services
+## 1. GDP Analysis: The Shift from Oil to Services
 
 ### Overview
 
 For decades, Oil & Gas was the heartbeat of the nation, but between 2015 and 2024, the sector has struggled with a **CAGR of -4.4%**. This decline is attributed to chronic underinvestment and crude oil theft, which cost the nation an estimated 400,000 barrels per day in 2023 (BusinessDay Nigeria, 2024).
 In contrast, the Services sector—led by Finance and ICT has stepped in to fill the vacuum, though it does not yet provide the same level of foreign exchange liquidity as the oil sector once did.
 
-### 🚀 Top 5 Sectors by Growth (2024)
+### Top 5 Sectors by Growth (2024)
 
 1. **Financial & Insurance (29.61%):** Driven by high policy rates and dollar asset revaluation.
 2. **Water Supply & Waste Management (8.40%):** Reflects increased urbanization and utility privatization.
@@ -59,25 +89,20 @@ In contrast, the Services sector—led by Finance and ICT has stepped in to fill
 
 
 
-### 🧱 Top Contributors to GDP (2024)
+### Top Contributors to GDP (2024)
 
 1. **Agriculture (24.64%):** The nation's largest employer and safety net.
 2. **Services - Trade (17.69%):** High volume but low margin.
 3. **Information & Communication (17.68%):** The "new oil" of the economy.
 4. **Manufacturing (8.64%):** Struggling with input costs.
-5. **Financial & Insurance (6.22%):** High value-add despite lower employment footprint.
-
-
-
-
-
+5. **Financial & Insurance (6.22%):** High value-add despite lower employment footprint
 
 
 ![Multi-line chart – 10-Year GDP Growth (Oil, Agriculture, Finance, Manufacturing)](./figures/gdp_rankings.png)
 **Figure 1:** _Top 5 fastest growing sectors in 2024 vs. 10-year average contributors._
 
 
-### 🏆 Best and Least Performers (10-Year Overview)
+### Best and Least Performers (10-Year Overview)
 
 * **Best (Growth):** **Financial and Insurance**, with a 10-year average growth rate of .
 * **Best (Contribution):** **Agriculture**, maintaining an average GDP contribution of .
@@ -90,14 +115,14 @@ In contrast, the Services sector—led by Finance and ICT has stepped in to fill
 
 ---
 
-## 📉 2. CPI & Inflation: The Food Security Emergency
+## 2. CPI & Inflation: The Food Security Emergency
 
 ### Inflation Dynamics
 
 
 The removal of the fuel subsidy (2023) and Naira unification served as massive shocks. The "All Items" index has increased by **381.7%** cumulatively since 2015.
 
-### 🔥 Highest Cost Drivers (2024)
+### Highest Cost Drivers (2024)
 The highest cost increases over the decade were concentrated in essential goods:
 
 - **Imported Food (+41.3%):** Because Nigeria remains heavily dependent on imported wheat, sugar, and specialty fats, the devaluation of the Naira means food insecurity is on the rise.
@@ -110,7 +135,7 @@ The highest cost increases over the decade were concentrated in essential goods:
 ![Multi-line chart – 10-Year GDP Growth (Oil, Agriculture, Finance, Manufacturing)](./figures/cpi_inflation_2024.png)
 **Figure 3:** _Components experiencing the highest cost-of-living increases over the last 10 years._
 
-### 🔍 GDP vs. CPI Insights
+### GDP vs. CPI Insights
 
 * **Resilience:** The **ICT sector** remains resilient; digital services are inelastic—consumers maintain data usage despite rising prices.
 * **The Squeeze:** **Manufacturing and Trade** are hurting. While their GDP volume might show slight growth, rising logistics and input costs are squeezing margins beyond what consumers can absorb.
@@ -118,7 +143,7 @@ The highest cost increases over the decade were concentrated in essential goods:
 
 ---
 
-## 🏢 3. Company–Sector Analysis: A Tale of Two Economies
+## 3. Company–Sector Analysis: A Tale of Two Economies
 
 While a sector may show "growth" in GDP terms (which measures output volume), companies within that sector may be dying due to value erosion.
 
@@ -140,27 +165,27 @@ The relationship between a sector’s GDP (output volume) and a company’s Prof
 **Figure 4:** *Divergence between Sectoral GDP growth (Red) and Company PAT growth (Blue).*
 
 
-### 🧠 Key Insight
+### Key Insight
 
 Sectoral growth may not directly translate to a company's bottom-line performance. People are using more data (MTN) and buying more seasoning cubes (Nestlé), but the companies cannot convert this activity into profit because their cost of capital and inputs (denominated in USD) has outpaced the local purchasing power.
 
 ---
 
-## 🧭 4. Recommendations
-### 🏛️ For the Nigerian Economic Advisory Team
+## 4. Recommendations
+### For the Nigerian Economic Advisory Team
 
 1. **FX Intervention for Essential Industry:** Implement a **"Managed Floating Window"**—a dedicated, prioritized exchange rate channel for essential industrial inputs. This prevents the value erosion seen in Nestlé and MTN.
 2. **Agriculture Productivity:** Shift from basic farming to **"Agro-Processing."** Invest in secure transport corridors and solar-powered cold storage to reduce post-harvest losses and curb food inflation.
 3. **Taxing the Windfall:** Consider a temporary **"Windfall Tax"** on banking revaluation gains to fund infrastructure in struggling real-sector industries.
 
-### 💼 For Investors
+### For Investors
 
 * **Overweight: Financial Services (Tier-1 Banks).** Specifically **Zenith Bank**; they are the most efficient hedge against Naira volatility and high-interest environments.
 * **Overweight: Upstream Energy.** **Seplat Energy** allows investors to play the Nigerian economy with "Hard Currency Protection" due to dollarized revenues.
 * **Avoid: Highly Leveraged Consumer Goods.** Until the exchange rate stabilizes, these firms will face "accounting losses" from FX liabilities that prevent dividend payouts.
 
 
-## 📚 References
+## References
 
 1. **Famine Early Warning Systems Network (FEWS NET).** (2024). *Nigeria Food Security Outlook.* [https://fews.net/west-africa/nigeria](https://fews.net/west-africa/nigeria)
 2. **Internal Displacement Monitoring Centre (IDMC).** (2024). *Country Profile: Nigeria.* [https://www.internal-displacement.org/countries/nigeria/](https://www.internal-displacement.org/countries/nigeria/)
