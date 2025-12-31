@@ -47,6 +47,10 @@
   * [💼 For Investors](#for-investors)
 
 * [📚 References](#references)
+
+
+Read a print-ready version [here](https://drive.google.com/file/d/1H6f93lvt67lKtlsKfbehJDY-jjM99F8L/view?usp=drive_link)
+
 ## Executive Summary
 
 ### The "K-Shaped" Economic Divergence
